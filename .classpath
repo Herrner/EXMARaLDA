@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="EXMARaLDA/libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/elan.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/kai/Dropbox/Code/EXMARaLDA/libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/swing-worker-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/ant.jar"/>
+	<classpathentry kind="lib" path="libs/forms-1.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jaxen.jar"/>
+	<classpathentry kind="lib" path="libs/saxpath.jar"/>
+	<classpathentry kind="lib" path="libs/xalan.jar"/>
+	<classpathentry kind="lib" path="libs/xml-apis.jar"/>
+	<classpathentry kind="lib" path="libs/jctable.jar"/>
+	<classpathentry kind="lib" path="libs/quaqua.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/kai/Java/EXMARaLDA/libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/mrj.jar"/>
+	<classpathentry kind="lib" path="libs/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="libs/jarbundler-2.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jaxen-core.jar"/>
+	<classpathentry kind="lib" path="libs/jaxen-jdom.jar"/>
+	<classpathentry kind="lib" path="libs/commons-net-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-net-ftp-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="libs/comfyj-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/derby.jar"/>
+	<classpathentry kind="lib" path="libs/QTJava.zip"/>
+	<classpathentry kind="lib" path="C:/Users/kai/java/EXMARaLDA/libs/QTJava.zip"/>
+	<classpathentry kind="lib" path="libs/jdom.jar"/>
+	<classpathentry kind="lib" path="libs/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="libs/jl1.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="libs/SunJMF/jmf.jar"/>
+	<classpathentry kind="lib" path="libs/SunJMF/jniwrap-3.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="EXMARaLDA/libs/SunJMF"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/winpack-3.6.jar"/>
+	<classpathentry kind="lib" path="libs/saxonb9-0-0-4j/saxon9.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.1-alpha2.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.1-alpha2.jar"/>
+	<classpathentry kind="lib" path="libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.1-alpha2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.1-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/cobra.jar"/>
+	<classpathentry kind="lib" path="libs/js.jar"/>
+	<classpathentry kind="lib" path="libs/ipsk.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kai/Dropbox/Code/EXMARaLDA/libs/bounce-0.18.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/fedora-client-core-0.6-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

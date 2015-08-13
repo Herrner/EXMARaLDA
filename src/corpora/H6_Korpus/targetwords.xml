@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<targetwords>
+    <row>
+        <orthography>ampolla</orthography>
+        <phonetics>əm.’po.ʎə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>cabell</orthography>
+        <phonetics>kə.’βɛʎ</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>camió</orthography>
+        <phonetics>kɘ.’mjo</phonetics>
+        <syllable>CsvV</syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>cel</orthography>
+        <phonetics>’sɛl</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>cotxe</orthography>
+        <phonetics>’kot.ʃə</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>desembre</orthography>
+        <phonetics>də.’zem.βɾə</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>dos ocells</orthography>
+        <phonetics>&apos;do.zu.’seʎʃ</phonetics>
+        <syllable>CVCC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>dotze</orthography>
+        <phonetics>’dod.zə</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>escola</orthography>
+        <phonetics>əs.’kɔ.lə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>estrella</orthography>
+        <phonetics>əs.’tɾe.ʎə</phonetics>
+        <syllable>CCV</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>flor</orthography>
+        <phonetics>’flɔ</phonetics>
+        <syllable>CCV</syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>futbol</orthography>
+        <phonetics>fut.’bɔl</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>gatet</orthography>
+        <phonetics>ɡə.’tɛt</phonetics>
+        <syllable>CV</syllable>
+        <target-vowel>ə </target-vowel>
+    </row>
+    <row>
+        <orthography>ɡeɡant</orthography>
+        <phonetics>ʒə.’ɣan</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>groc</orthography>
+        <phonetics>’ɡɾɔk</phonetics>
+        <syllable>CCVC </syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>herba</orthography>
+        <phonetics>’eɾ.βə</phonetics>
+        <syllable>VC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>jersei</orthography>
+        <phonetics>ʒəɾ.’sɛj</phonetics>
+        <syllable>CVsv</syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>martell</orthography>
+        <phonetics>məɾ.’teʎ</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>menja</orthography>
+        <phonetics>&apos;meɲ.ʒə</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>menjador</orthography>
+        <phonetics>məɲ.ʒə.’ðo</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>nou</orthography>
+        <phonetics>’nɔw</phonetics>
+        <syllable>CVsv</syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>oli</orthography>
+        <phonetics>’ɔ.li</phonetics>
+        <syllable>V</syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>olla</orthography>
+        <phonetics>’ɔ.ʎə</phonetics>
+        <syllable>V</syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>paella</orthography>
+        <phonetics>pə.’e.ʎə</phonetics>
+        <syllable>V</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>papallona</orthography>
+        <phonetics>pə.pə.’ʎo.nə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>paper</orthography>
+        <phonetics>pə.’pe</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>paperera</orthography>
+        <phonetics>pə.pə.’ɾe.ɾə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>pedra</orthography>
+        <phonetics>’pe.ðɾə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>pedreta</orthography>
+        <phonetics>pə.’ðɾɛ.tə</phonetics>
+        <syllable>CCV</syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>pelut</orthography>
+        <phonetics>pə.&apos;lut</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>pera</orthography>
+        <phonetics>’pɛ.ɾə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>pereta</orthography>
+        <phonetics>pə.’ɾɛ.tə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>petit</orthography>
+        <phonetics>pə.’tit</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>pilota</orthography>
+        <phonetics>pi.’lɔ.tə</phonetics>
+        <syllable>CV  </syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>planteta</orthography>
+        <phonetics>plən.’tɛ.tə</phonetics>
+        <syllable>CCVC</syllable>
+        <target-vowel>ə </target-vowel>
+    </row>
+    <row>
+        <orthography>platet</orthography>
+        <phonetics>plə.’tɛt</phonetics>
+        <syllable>CCV </syllable>
+        <target-vowel>ə  </target-vowel>
+    </row>
+    <row>
+        <orthography>poma</orthography>
+        <phonetics>’po.mə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>princesa</orthography>
+        <phonetics>pɾin.’sɛ.zə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>rosa</orthography>
+        <phonetics>’rɔ.zə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>setze</orthography>
+        <phonetics>sɛd.zə</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>sol</orthography>
+        <phonetics>’sɔl</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>taronja</orthography>
+        <phonetics>’tɾɔɲ.ʒə</phonetics>
+        <syllable>CCVC </syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>telèfon</orthography>
+        <phonetics>tə.’lɛ.fun</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>tovallola</orthography>
+        <phonetics>tu.βə.’ʎɔ.lə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɔ</target-vowel>
+    </row>
+    <row>
+        <orthography>tractor</orthography>
+        <phonetics>tɾək.’to</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>tretze</orthography>
+        <phonetics>tɾed.zə</phonetics>
+        <syllable>CCVC </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>vermell</orthography>
+        <phonetics>bəɾ.’mɛʎ</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>zebra</orthography>
+        <phonetics>’ze.βɾə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>zero</orthography>
+        <phonetics>’zɛ.ru</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ɛ</target-vowel>
+    </row>
+    <row>
+        <orthography>zoo</orthography>
+        <phonetics>’zo</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>dos ocells</orthography>
+        <phonetics>&apos;do.zu.’seʎʃ</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>o</target-vowel>
+    </row>
+    <row>
+        <orthography>menjador</orthography>
+        <phonetics>məɲ.ʒə.’ðo</phonetics>
+        <syllable>CVC  CV</syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>papallona</orthography>
+        <phonetics>pə.pə.’ʎo.nə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>paper</orthography>
+        <phonetics>pə.’pe</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>paperera</orthography>
+        <phonetics>pə.pə.’ɾe.ɾə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>pedreta</orthography>
+        <phonetics>pə.’ðɾɛ.tə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>pereta</orthography>
+        <phonetics>pə.’ɾɛ.tə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <row>
+        <orthography>tovallola</orthography>
+        <phonetics>tu.βə.’ʎɔ.lə</phonetics>
+        <syllable>CV </syllable>
+        <target-vowel>ə</target-vowel>
+    </row>
+    <!-- ADDITION 16-02-2010 -->
+    <row>
+        <orthography>ocell</orthography>
+        <phonetics>u.’seλ</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>finestra</orthography>
+        <phonetics>fi.’nes.tɾə</phonetics>
+        <syllable>CVC </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>pomer</orthography>
+        <phonetics>pu.’me</phonetics>
+        <syllable>CV</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>cubell</orthography>
+        <phonetics>ku.’βeλ</phonetics>
+        <syllable>CVC  </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>peix</orthography>
+        <phonetics>’peʃ</phonetics>
+        <syllable>CVC </syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+    <row>
+        <orthography>llet</orthography>
+        <phonetics>’λet</phonetics>
+        <syllable>CVC</syllable>
+        <target-vowel>e</target-vowel>
+    </row>
+
+</targetwords>
